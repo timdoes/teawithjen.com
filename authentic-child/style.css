@@ -10,3 +10,11 @@
  */
 
 /* Copy any classes from parent and paste here. It will override the parent's version. */
+
+.navbar-primary .navbar-nav > li.menu-item > a {
+    color: #333333;
+}
+
+.post-share-vertical .share-buttons a {
+    color: #333333;
+}
